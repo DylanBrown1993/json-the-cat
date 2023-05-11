@@ -39,6 +39,6 @@ fetchBreedDescription(breedName)
   });
 
 
-
+module.exports = { fetchBreedDescription };
 
 
